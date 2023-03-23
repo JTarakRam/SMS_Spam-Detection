@@ -1,0 +1,9 @@
+pandas 
+numpy 
+matplotlib 
+sckit-learn
+seaborn
+nltk
+warnings
+string
+wordcloud
